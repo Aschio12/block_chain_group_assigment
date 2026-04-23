@@ -3,11 +3,18 @@
 This repository is for the group laboratory assignment (5 members, 10% weighting).
 
 ## Team Members
-- ME (Coordinator + Contributor)
-- A
-- B
-- C
-- D
+- Aschalew Daraje (Coordinator + Contributor)
+- Aman Abdela
+- Bemenet Musa
+- Tsion Wubshet
+- Abubeker Assefa
+
+## GitHub Contributors
+- Aschalew Daraje - @Aschio12
+- Aman Abdela - @Amanbey
+- Bemenet Musa - @bemnetmussa
+- Tsion Wubshet - @Tsita-w
+- Abubeker Assefa - (add username)
 
 ## Assignment Requirements Coverage
 - Course materials are stored in `materials/`.

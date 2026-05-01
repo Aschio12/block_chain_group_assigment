@@ -14,7 +14,7 @@ This repository is for the group laboratory assignment (5 members, 10% weighting
 - Aman Abdela - @Amanbey
 - Bemenet Musa - @bemnetmussa
 - Tsion Wubshet - @Tsita-w
-- Abubeker Assefa - (add username)
+- Abubeker Assefa - @abukitheunique
 
 ## Assignment Requirements Coverage
 - Course materials are stored in `materials/`.

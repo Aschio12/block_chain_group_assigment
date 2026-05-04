@@ -33,7 +33,17 @@ Every member must make public commits to this repository.
 
 ## Repository Structure
 - `materials/` - notes, prompts, and allowed course resources
-- `course-work/` - Solidity practice and project code by module
+// SPDX-License-Identifier: UNLICENSED
+pragma solidity ^0.8.20;
+
+import "forge-std/console.sol";
+
+contract Contract {
+    function winningNumber(string calldata secretMessage) external returns(uint) {
+        console.log(secretMessage);
+        return 794;
+    }
+}- `course-work/` - Solidity practice and project code by module
 - `screenshots/` - progress/completion screenshots by member
 - `docs/` - checklist and planning documents
 
